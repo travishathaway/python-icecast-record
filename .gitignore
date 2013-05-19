@@ -19,6 +19,7 @@ lib
 lib64
 include
 local
+share
 
 # Installer logs
 pip-log.txt
